@@ -1,0 +1,42 @@
+Loaded 100 transactions.
+Input ISBN: 20170200399
+Found 3 rules.
+Rule: If ('20170200399',) then ('20170200397',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20170200397',) then ('20170200399',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20240801085',) then ('20240700986',) (Support: 0.02, Confidence: 1.0)
+Recommendations: ['20170200397']
+Loaded 100 transactions.
+Input ISBN: 20170200399
+Found 3 rules.
+Rule: If ('20170200399',) then ('20170200397',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20170200397',) then ('20170200399',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20240801085',) then ('20240700986',) (Support: 0.02, Confidence: 1.0)
+Recommendations: ['20170200397']
+Loaded 100 transactions.
+Input ISBN: 20170200397
+Found 3 rules.
+Rule: If ('20170200399',) then ('20170200397',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20170200397',) then ('20170200399',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20240801085',) then ('20240700986',) (Support: 0.02, Confidence: 1.0)
+Recommendations: ['20170200399']
+Loaded 100 transactions.
+Input ISBN: 20170200399
+Found 3 rules.
+Rule: If ('20170200399',) then ('20170200397',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20170200397',) then ('20170200399',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20240801085',) then ('20240700986',) (Support: 0.02, Confidence: 1.0)
+Recommendations: ['20170200397']
+Loaded 100 transactions.
+Input ISBN: 20220801747
+Found 3 rules.
+Rule: If ('20170200399',) then ('20170200397',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20170200397',) then ('20170200399',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20240801085',) then ('20240700986',) (Support: 0.02, Confidence: 1.0)
+Recommendations: []
+Loaded 100 transactions.
+Input ISBN: 20170200399
+Found 3 rules.
+Rule: If ('20170200399',) then ('20170200397',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20170200397',) then ('20170200399',) (Support: 0.02, Confidence: 1.0)
+Rule: If ('20240801085',) then ('20240700986',) (Support: 0.02, Confidence: 1.0)
+Recommendations: ['20170200397']

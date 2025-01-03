@@ -1,0 +1,9 @@
+color hex:
+- a
+- a
+- a
+
+
+11/11/2024:
+booking facility sengaja ga dibuat dulu, yg penting page lain udh dibuat
+kl ada yg perlu diperbaiki/ditambah, nanti aja gpp \(0v0)/
