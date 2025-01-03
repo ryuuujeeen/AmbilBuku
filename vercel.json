@@ -1,10 +1,10 @@
 {
   "functions": {
     "api/*.php": {
-      "runtime": "vercel-php@0.6.0"
+      "runtime": "vercel-php@1.0.0"   // Update to the latest available version for PHP
     },
     "js/*.js": {
-      "runtime": "nodejs18.x"
+      "runtime": "nodejs18.x"  // Node.js runtime version
     }
   },
   "routes": [
